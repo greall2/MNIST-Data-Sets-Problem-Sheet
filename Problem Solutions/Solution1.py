@@ -67,8 +67,8 @@ def read_labels_from_file(filename):
 
     return labels
 
-train_labels = read_labels_from_file('data/train-labels-idx1-ubyte.gz')
-test_labels = read_labels_from_file('data/t10k-images-idx3-ubyte.gz')
+train_labels = read_labels_from_file('../data/train-labels-idx1-ubyte.gz')
+test_labels = read_labels_from_file('../data/t10k-images-idx3-ubyte.gz')
 
-train_images = read_images_from_file('data/train-images-idx3-ubyte.gz')
-test_images = read_images_from_file('data/t10k-images-idx3-ubyte.gz')
+train_images = read_images_from_file('../data/train-images-idx3-ubyte.gz')
+test_images = read_images_from_file('../data/t10k-images-idx3-ubyte.gz')
