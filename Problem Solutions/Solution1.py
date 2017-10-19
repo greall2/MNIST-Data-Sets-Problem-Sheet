@@ -1,5 +1,5 @@
 #Emerging Technologies
-#Python Fundatmentals Problem Sheet
+#MNIST DataSets Problem Sheet
 #Ríona Greally - G00325504
 
 
