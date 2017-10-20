@@ -15,3 +15,7 @@ Use Python to output the image files as PNGs, saving them in a subfolder in your
 
 
 Link to Problem Sheet: https://emerging-technologies.github.io/problems/mnist.html
+
+In order to run this script you must download the MNIST data set files from the [MNIST]( http://yann.lecun.com/exdb/mnist/
+) site 
+
